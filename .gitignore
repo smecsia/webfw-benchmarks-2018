@@ -1,0 +1,20 @@
+# Intellij files
+*.ipr
+*.iml
+*.iws
+.idea/
+classes
+.classpath
+.project
+.settings
+.test
+
+# Mac OS file
+.DS_Store
+
+# Maven files
+target/
+
+# Release files
+*.releaseBackup
+*.versionsBackup
