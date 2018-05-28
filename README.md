@@ -37,7 +37,7 @@ Apache Benchmark running with the following command:
 
 So making 1M requests with the concurrency 10.
 
-## Results:
+## Results (sorted by RPS):
 
 | Framework                    | Base image                       | img size | RPS   |  Time (s) |  Avg (ms) | Mem max (mb) | Mem min (mb) | CPU max (%) |
 | :--------------------------- | -------------------------------: | -------: | ----: | --------: | --------: | -----------: | -----------: | ----------: |
